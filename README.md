@@ -1,11 +1,10 @@
-<!--
-![Imagem topo](./.github/assets/images/topo.png)
--->
-
-<h2 align="left">
-  Hi, Human!
-</h2>
-
+<figure>
+  <img src="https://user-images.githubusercontent.com/64621536/127888231-47f673b0-e081-429b-989b-f56f15091fcc.png" width="200">
+  <h2 align="left">
+    Hi, Human!
+  </h2>
+</figure>
+  
 <p align="left">
   <em>
     Olá, me chamo Victor, tenho 20 anos e sou um estudante de Desenvolvimento Web e Mobile, focado em aprender cada dia mais, tanto sobre Dev quanto sobre mim mesmo.
@@ -29,7 +28,7 @@
   </p>
 </details>
 
-<hr/>
+<hr>
 
 <p align="center">
   Quer uma ajuda em projetos open-source, me contratar, fazer um networking ou apenas bater um papo? Entre em contato comigo!
