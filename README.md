@@ -1,10 +1,10 @@
-<figure>
+<p>  
   <img src="https://user-images.githubusercontent.com/64621536/127888231-47f673b0-e081-429b-989b-f56f15091fcc.png" width="200">
-  <h2 align="left">
+  <b>
     Hi, Human!
-  </h2>
-</figure>
-  
+  </b>
+</p>
+
 <p align="left">
   <em>
     Olá, me chamo Victor, tenho 20 anos e sou um estudante de Desenvolvimento Web e Mobile, focado em aprender cada dia mais, tanto sobre Dev quanto sobre mim mesmo.
@@ -40,6 +40,5 @@
   
   [![Linkedin Badge](https://img.shields.io/badge/-Victor%20Souza-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/victor-souza-762291213/)
   [![Gmail](https://img.shields.io/badge/-victor.souza2210@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victor.souza2210@gmail.com)
-  [![WhatsApp](https://img.shields.io/badge/51995725785-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](http://api.whatsapp.com/send?phone=5551995725785)
-
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/victortms)
 </div>
