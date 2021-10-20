@@ -16,7 +16,7 @@
   <ul>
     <li>🎓 Técnico de Informática para Internet - Qi Faculdade e Escola Técnica </li>
     <li>📕 Bootcamp Desenvolvedor(a) Front-end - IGTI </li>
-    <li>📘 Bootcamp de Data Engineer - Digital Innovation One </li>
+    <li>📘 Bootcamp de React - IGTI </li>
     <li>📚 Estudando Dev. Web e Mobile | Algoritmos | NodeJS | Javascript | React </li>
   </ul>
 </details>
