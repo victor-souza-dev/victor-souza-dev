@@ -7,7 +7,7 @@
 
 <p align="left">
   <em>
-    Olá, me chamo Victor, tenho 20 anos e sou um estudante de Desenvolvimento Web e Mobile, focado em aprender cada dia mais, tanto sobre Dev quanto sobre mim mesmo.
+    Olá, me chamo Victor, tenho 21 anos e sou um estudante de Desenvolvimento Web e Mobile, focado em aprender cada dia mais, tanto sobre Dev quanto sobre mim mesmo.
   </em>
 <p/>
 
