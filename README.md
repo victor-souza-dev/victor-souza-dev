@@ -29,6 +29,8 @@
   </p>
 </details>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KlowdyTMS&count_private=true&show_icons=true&theme=tokyonight)
+
 <hr>
 
 <p align="center">
@@ -36,8 +38,6 @@
 <p/>
 
 <div align="center">
-  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KlowdyTMS&show_icons=true&theme=tokyonight)
   
   [![Linkedin Badge](https://img.shields.io/badge/-Victor%20Souza-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/victor-souza-762291213/)
   [![Gmail](https://img.shields.io/badge/-victor.souza2210@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victor.souza2210@gmail.com)
