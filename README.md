@@ -25,7 +25,6 @@
   <summary>Minhas Estátisticas no Github</summary>
   <br>
   <p>
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KlowdyTMS&show_icons=true&theme=tokyonight)
     <img src="https://github-readme-stats.vercel.app/api?locale=pt-br&username=KlowdyTMS&count_private=true&theme=tokyonight&show_icons=true&include_all_commits=true"%20alt="Estátisticas%20Gerais" />
   </p>
 </details>
@@ -37,6 +36,8 @@
 <p/>
 
 <div align="center">
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KlowdyTMS&show_icons=true&theme=tokyonight)
   
   [![Linkedin Badge](https://img.shields.io/badge/-Victor%20Souza-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/victor-souza-762291213/)
   [![Gmail](https://img.shields.io/badge/-victor.souza2210@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victor.souza2210@gmail.com)
