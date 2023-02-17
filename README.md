@@ -27,7 +27,7 @@
   <p>
     <img src="https://github-readme-stats.vercel.app/api?locale=pt-br&username=KlowdyTMS&count_private=true&theme=tokyonight&show_icons=true&include_all_commits=true"%20alt="Estátisticas%20Gerais" />
   </p>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KlowdyTMS)](https://github.com/KlowdyTMS/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KlowdyTMS)]
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KlowdyTMS&count_private=true&show_icons=true&theme=tokyonight)
 </details>
 
