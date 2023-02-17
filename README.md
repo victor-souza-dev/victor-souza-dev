@@ -24,7 +24,7 @@
 <details>
   <summary>Minhas Estátisticas no Github</summary>
   <br>
-  <p style={display: 'flex', justifyContent: 'center'}>
+  <p style="display: flex; justifyContent: center;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KlowdyTMS&theme=tokyonight&count_private=true" />
     <img src="https://github-readme-stats.vercel.app/api?locale=pt-br&username=KlowdyTMS&count_private=true&theme=tokyonight&show_icons=true&include_all_commits=true"%20alt="Estátisticas%20Gerais" />
   </p>
