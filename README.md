@@ -25,7 +25,7 @@
   <summary>Minhas Estátisticas no Github</summary>
   <br>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&username=KlowdyTMS&count_private=true&langs_count=5&theme=tokyonight"%20alt="Techs%20utilizadas%20nos%20projetos" />
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KlowdyTMS&show_icons=true&theme=tokyonight)
     <img src="https://github-readme-stats.vercel.app/api?locale=pt-br&username=KlowdyTMS&count_private=true&theme=tokyonight&show_icons=true&include_all_commits=true"%20alt="Estátisticas%20Gerais" />
   </p>
 </details>
