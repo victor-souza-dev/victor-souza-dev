@@ -25,7 +25,7 @@
   <summary>Minhas Estátisticas no Github</summary>
   <br>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?locale=pt-br&username=KlowdyTMS&theme=tokyonight&count_private=false&include_all_commits=true&compact=true" />
+    <img src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?locale=pt-br&username=KlowdyTMS&theme=tokyonight&count_private=false&include_all_commits=true&compact=true" />
     <img src="https://github-readme-stats.vercel.app/api?locale=pt-br&username=KlowdyTMS&count_private=true&theme=tokyonight&show_icons=true&include_all_commits=true"%20alt="Estátisticas%20Gerais" />
   </p>
 </details>
