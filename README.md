@@ -1,5 +1,5 @@
 <p>  
-  <img src="https://avatars.githubusercontent.com/u/64621536?v=4" width="200">
+  <img src="https://avatars.githubusercontent.com/u/64621536?v=4" width="200" style={{ borderRadius: 100%}} >
   <b>
     Hi, Human!
   </b>
