@@ -1,7 +1,4 @@
 <p>  
-  <div style="border-radius: 100%; overflow: hidden;">
-    <img src="https://avatars.githubusercontent.com/u/64621536?v=4" width="200" >
-  </div>
   <b>
     Hi, Human!
   </b>
