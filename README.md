@@ -6,17 +6,16 @@
 
 <p align="left">
   <em>
-    Olá, me chamo Victor, tenho 22 anos e sou um estudante de Desenvolvimento Web e Mobile, focado em aprender cada dia mais, tanto sobre Dev quanto sobre mim mesmo.
+    Olá, meu nome é Victor, sou um estudante de Análise e Desenvolvimento de Sistemas (ADS) com um foco sólido em C#. Com dois anos de experiência como desenvolvedor autônomo na área de desenvolvimento web, enfrentei diversos desafios ao longo da minha jornada acadêmica e profissional, sempre buscando oportunidades para aprender e crescer.
   </em>
 <p/>
 
 <details>
   <summary>Mais sobre mim</summary>
   <ul>
+    <li>🎓 Análise e Desenvolvimento de Sistemas - Uniasselvi </li>
     <li>🎓 Técnico de Informática para Internet - Qi Faculdade e Escola Técnica </li>
-    <li>📕 Bootcamp Desenvolvedor(a) Front-end - IGTI </li>
-    <li>📘 Bootcamp de React - IGTI </li>
-    <li>📚 Estudando Dev. Web e Mobile | Algoritmos | NodeJS | Javascript | React </li>
+    <li>📚 Estudando Dev. Web e Mobile | Algoritmos | C# | NodeJS | React </li>
   </ul>
 </details>
 
