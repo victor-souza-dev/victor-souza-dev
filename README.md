@@ -20,11 +20,10 @@
 </details>
 
 <details>
-  <summary>Minhas Estátisticas no Github</summary>
+  <summary>Minhas Estátisticas</summary>
   <br>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?locale=pt-br&username=victor-souza-dev&theme=tokyonight&count_private=false&include_all_commits=true&compact=true" />
-    <img src="https://github-readme-stats.vercel.app/api?locale=pt-br&username=victor-souza-dev&count_private=true&theme=tokyonight&show_icons=true&include_all_commits=true"%20alt="Estátisticas%20Gerais" />
+    <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/647b9ee440cee644b28338a3?variant=dark&roadmaps=aspnet-core%2Creact%2Csql%2Cnodejs" alt="roadmap.sh"/></a>
   </p>
 </details>
 
